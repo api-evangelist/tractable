@@ -1,0 +1,91 @@
+aid: tractable
+name: Tractable
+description: >-
+  Tractable is a London-headquartered artificial intelligence company founded
+  in 2014 by Alexandre Dalyac, Razvan Ranca, and Adrien Cohen that applies
+  computer vision and deep learning to automate visual damage assessment for
+  auto and property insurance claims. The platform analyzes photos of
+  vehicles and buildings down to the pixel to produce accident first-notice-
+  of-loss (FNOL) triage decisions, AI-generated preliminary repair estimates,
+  automated claim review for fraud and consistency, subrogation packet
+  analysis, and property repair-cost estimation and underwriting condition
+  assessment. Tractable's flagship offerings include Auto Estimator, Auto
+  Damage Appraiser, Auto Salvage, Property Estimator, Property Underwriter,
+  and the LumaScanner fixed-operations vehicle scanning product. The company
+  serves insurers, dealerships, repair networks, recyclers, and fleet and
+  rental operators including GEICO, Aviva, Mitchell, Tokio Marine, Admiral,
+  Sompo, Aioi Nissay Dowa, and LKQ. Tractable reached unicorn status in
+  June 2021 and secured a $65M investment from SoftBank Vision Fund 2 in
+  July 2023, scaling to over 300 employees across offices in London, Warsaw,
+  Paris, Milan, Spain, Romania, New York, Toronto, Tokyo, and Bangkok. The
+  product is delivered through flexible desktop and API integrations with
+  FNOL, estimatics, and claim review systems, but the developer surface is
+  gated to enterprise partners — there is no public developer portal,
+  self-service API key, OpenAPI specification, SDK release, or open-source
+  repository, and no publicly published authentication, endpoint, pricing,
+  or rate-limit documentation.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - InsurTech
+  - Claims
+  - Auto Insurance
+  - Property Insurance
+  - Computer Vision
+  - Deep Learning
+  - Artificial Intelligence
+  - Damage Assessment
+  - FNOL
+  - Subrogation
+  - Underwriting
+  - Vehicle Inspection
+  - Fleet Management
+  - Salvage
+url: https://raw.githubusercontent.com/api-evangelist/tractable/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://tractable.ai
+  - type: About
+    url: https://tractable.ai/en/about
+  - type: Products
+    url: https://tractable.ai/en/products
+  - type: Solutions
+    url: https://tractable.ai/en/solutions
+  - type: Insurers
+    url: https://tractable.ai/en/insurers
+  - type: PropertyProducts
+    url: https://tractable.ai/en/products/property
+  - type: Dealerships
+    url: https://tractable.ai/en/dealerships
+  - type: Repairers
+    url: https://tractable.ai/en/repairers
+  - type: Recyclers
+    url: https://tractable.ai/en/recyclers
+  - type: FleetAndRentals
+    url: https://tractable.ai/en/fleet-rentals
+  - type: CaseStudies
+    url: https://tractable.ai/en/case-studies
+  - type: News
+    url: https://tractable.ai/news
+  - type: Press
+    url: https://tractable.ai/press
+  - type: Careers
+    url: https://tractable.ai/en/careers
+  - type: Contact
+    url: https://tractable.ai/en/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/tractable
+  - type: Twitter
+    url: https://twitter.com/tractableai
+  - type: YouTube
+    url: https://www.youtube.com/@tractableai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
