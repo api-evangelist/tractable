@@ -56,7 +56,7 @@ tags:
   - Claims
   - Auto Insurance
   - Property Insurance
-  - Computer-Vision
+  - Computer Vision
   - Deep Learning
   - Artificial Intelligence
   - Damage Assessment
@@ -82,6 +82,7 @@ tags_raw:
   - Vehicle Inspection
   - Fleet Management
   - Salvage
+  - Computer-Vision
 url: https://raw.githubusercontent.com/api-evangelist/tractable/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
